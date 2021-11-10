@@ -3,7 +3,7 @@
 # About myself
 I am a backend software development engineer with two years of learning NodeJS technologies. Passionate about learning new technologies and problem-solving. I have always found coding intuitive and have pushed myself to discover the most effective ways to achieve a result
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tantruong2303
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tantruong2303&theme=dark)]
 
 # Quick Links
 
