@@ -17,3 +17,5 @@ I am a backend software development engineer with two years of learning NodeJS t
 <a href="https://tantruong2303.github.io/cv/truongbinhtan.pdf"><img src="https://img.icons8.com/fluency/48/000000/internet.png"/></a>&nbsp;&nbsp;
 <a href="mailto:tantruong2303@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/circled-envelope.png"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/tantruong23/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>&nbsp;&nbsp;
+
+
