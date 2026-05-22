@@ -6,7 +6,6 @@ I am a backend software development engineer with two years of learning NodeJS t
 # Streak stats 🔥
 
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tantruong2303&theme=radical"/>
   <p align="center"> 💪💪   Success is not for the lazy!  💪💪  </p>
 </p>
                                   
